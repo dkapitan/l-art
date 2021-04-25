@@ -1,2 +1,3 @@
-# l-art
-Generative art with L-systems
+# lartpy: creating generative art with L-systems
+
+
